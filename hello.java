@@ -1,5 +1,5 @@
 import java.io.*;
-class Ameer
+class Hello
 {
    public static void main(String args[])
    {
